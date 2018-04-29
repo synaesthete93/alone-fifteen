@@ -7,4 +7,4 @@ Puteti (si recomand), de asemenea, sa va descarcati GitHub Desktop (cautati pe g
 
 Pana una alta, puteti (cred) sa descarcati fisierele pt. guitar pro si pentru melodie de aici, fiindca e public repository (ala privat costa bani). Momentan, il folosim doar pt. storage, nu si pentru upload de modificari. 
 
-Instalati-va toti guitar pro 7. Fisierul este in lista de mai sus (click pe filename, va duce la o pagina unde este un buton de download) si daca dati click pe "fisierul torrent pentru Guitar Pro 7" (sau doar tineti mouse-ul peste el) am scris un scurt instructaj pt. instalare.
+Instalati-va toti guitar pro 7. Fisierul torrent este in lista de mai sus (click pe filename, va duce la o pagina unde este un buton de download) si daca dati click pe "fisierul torrent pentru Guitar Pro 7" (sau doar tineti mouse-ul peste el) am scris un scurt instructaj pt. instalare.
